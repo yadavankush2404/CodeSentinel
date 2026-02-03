@@ -14,11 +14,6 @@
     A Distributed Microservices Architecture for Automated AI Code Reviews.
     <br />
     <br />
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="#issues">Report Bug</a>
-    ·
-    <a href="#issues">Request Feature</a>
   </p>
 </div>
 
@@ -106,7 +101,7 @@ Follow these steps to get a local copy up and running.
 
 1.  **Clone the repo**
     ```sh
-    git clone [https://github.com/yadavankush2404/codesentinel.git](https://github.com/yourusername/codesentinel.git)
+    git clone https://github.com/yadavankush2404/codesentinel.git
     cd codesentinel
     ```
 

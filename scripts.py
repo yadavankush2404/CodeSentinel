@@ -1,6 +1,6 @@
 import base64
 
 
-base64_str = "PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8\nbWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9y\ndCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxl\nPTEuMCI+CiAgICA8dGl0bGU+RG9jdW1lbnQ8L3RpdGxlPgo8L2hlYWQ+Cjxi\nb2R5PgogICAgPGgxPlRoaXMgaXMgbWFueWEgcmF3YXQ8L2gxPgo8L2JvZHk+\nCjwvaHRtbD4=\n"
+base64_str = ""
 
 print(base64.b64decode(base64_str).decode())
